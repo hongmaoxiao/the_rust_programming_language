@@ -1,1 +1,0 @@
-/Users/xhm/learn/backend/rust/the_rust_programming_language/CommonProgrammingConcepts/variables/target/debug/variables: /Users/xhm/learn/backend/rust/the_rust_programming_language/CommonProgrammingConcepts/variables/src/main.rs

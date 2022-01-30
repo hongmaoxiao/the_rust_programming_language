@@ -1,1 +1,0 @@
-/Users/xhm/learn/backend/rust/the_rust_programming_language/CommonProgrammingConcepts/data_type/target/debug/data_type: /Users/xhm/learn/backend/rust/the_rust_programming_language/CommonProgrammingConcepts/data_type/src/main.rs
