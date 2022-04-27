@@ -18,4 +18,6 @@ fn main() {
     };
 
     println!("CustomSmartPointer created.");
+    drop(c);
+    println!("CustomSmartPointer dropped before the end of main.");
 }
